@@ -342,8 +342,8 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<!--
-<!-- hitwebcounter Code START -->
+
+<!-- hitwebcounter Code START --><!--
 <a href="https://www.hitwebcounter.com" target="_blank">
 <p>you are <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />visitor<br>The numbers are cumulative for the Bangkok ＆ Utsunomiya series websites launched since 2025 August 1st.</p></a>   
 -->
