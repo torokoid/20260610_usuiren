@@ -180,8 +180,10 @@ p.note { display: none; }
 <h2><span class="yellow">添付ファイルはeventフォルダに入れてHPにリンクします</span></h2>
 <a href="20260610_004.png" target="_blank"><img src="20260610_004.png" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">編集窓は小さいので通常はhtmlファイルをPCにダウンロードしてPC内で編集、完成品を後でアップロードするのが楽です<br>画面はhtml編集用のエディターBracketsの画面、上から下までの間が予定表部分のhtmlコードです<br>Bracketsは宇都宮市水泳連盟メンバーでは大森くんが使っています</span></h2>
+<h2><span class="yellow">編集窓は小さいので通常はhtmlファイルをPCにダウンロードしてPC内で編集、完成品を後でアップロードするのが楽です</span></h2>
 <a href="20260610_005.png" target="_blank"><img src="20260610_005.png" alt="サンプル画像" class="responsive-media"></a>
+<h2><span class="yellow">画面はhtml編集用のエディターBracketsの画面、上から下までの間が予定表部分のhtmlコードです<br>Bracketsは宇都宮市水泳連盟メンバーでは大森くんが使っています</span></h2>
+
 
 <!--
 <h2><span class="yellow">今回の撮影範囲は、おおむね赤枠のエリア</span></h2>
