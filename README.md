@@ -333,7 +333,7 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-<h2><span class="yellow">2026Jun10、満開の薔薇から、済生会病院の空と夜のドリームかわちプールまででした<br>Thank you for reading this far.</span></h2>
+<h2><span class="yellow">2026Jun10、宇都宮市水泳連盟HPの構成概要でした<br>Thank you for reading this far.</span></h2>
 <!--
 <br><br><br><br><br>
 <h2><span class="yellow">
@@ -342,11 +342,11 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 -->
 
 <br><br><br>
-
+<!--
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <p>you are <img src="https://hitwebcounter.com/counter/counter.php?page=21345151&style=0018&nbdigits=5&type=page&initCount=0" title="Counter Widget" Alt="Visit counter For Websites"   border="0" />visitor<br>The numbers are cumulative for the Bangkok ＆ Utsunomiya series websites launched since 2025 August 1st.</p></a>   
-
+-->
 
 
 
